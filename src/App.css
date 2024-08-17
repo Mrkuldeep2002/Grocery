@@ -303,7 +303,7 @@ font-weight: 500;
 
 .itembox-out {
   cursor: pointer;
-  margin: 13px;
+    margin: 13px;
   position: relative;
   width: 22%;
 }
